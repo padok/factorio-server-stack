@@ -1,0 +1,249 @@
+{
+  "mods": [
+    {
+      "name": "base",
+      "enabled": true
+    },
+    {
+      "name": "Krastorio2",
+      "description": "Core Modpack",
+      "enabled": true
+    },
+    {
+      "name": "FluidMustFlow",
+      "description": "Core recommended mods",
+      "enabled": true
+    },
+    {
+      "name": "FNEI",
+      "description": "Core recommended mods",
+      "broken": "No 1.0 version",
+      "forced": true,
+      "enabled": true
+    },
+    {
+      "name": "VehicleSnap",
+      "description": "Core recommended mods",
+      "broken": "No 1.0 version",
+      "forced": true,
+      "enabled": true
+    },
+    {
+      "name": "Construction_Drones",
+      "description": "Core recommended mods",
+      "enabled": true
+    },
+    {
+      "name": "rso-mod",
+      "description": "Core recommended mods",
+      "enabled": false
+    },
+    {
+      "name": "Clockwork",
+      "description": "Core recommended mods",
+      "enabled": true
+    },
+    {
+      "name": "ArmouredBiters",
+      "description": "Core recommended mods",
+      "enabled": true
+    },
+    {
+      "name": "krastorio2_extended_endgame",
+      "description": "Core Modpack",
+      "broken": "No 1.0 version",
+      "forced": true,
+      "enabled": true
+    },
+    {
+      "name": "alien-biomes",
+      "description": "Core recommended mods",
+      "enabled": true
+    },
+    {
+      "name": "alien-biomes-hr-terrain",
+      "description": "Core recommended mods",
+      "broken": "No 1.0 version",
+      "forced": true,
+      "enabled": true
+    },
+    {
+      "name": "aai-industry",
+      "description": "Core compatibility mods",
+      "enabled": true
+    },
+    {
+      "name": "aai-vehicles-chaingunner",
+      "description": "Core compatibility mods",
+      "broken": "No 1.0 version",
+      "forced": true,
+      "enabled": true
+    },
+    {
+      "name": "bullet-trails",
+      "description": "Core compatibility mods",
+      "broken": "No 1.0 version",
+      "forced": true,
+      "enabled": true
+    },
+    {
+      "name": "deadlock-beltboxes-loaders",
+      "description": "Core compatibility mods",
+      "enabled": true
+    },
+    {
+      "name": "DeadlockLargerLamp",
+      "description": "Core compatibility mods FANCY",
+      "broken": "No 1.0 version",
+      "forced": true,
+      "enabled": true
+    },
+    {
+      "name": "Dectorio",
+      "description": "Core compatibility mods FANCY",
+      "enabled": true
+    },
+    {
+      "name": "DiscoScience",
+      "description": "Core compatibility mods",
+      "broken": "No 1.0 version",
+      "forced": true,
+      "enabled": true
+    },
+    {
+      "name": "Flow Control",
+      "description": "Core compatibility mods",
+      "broken": "No 1.0 version",
+      "forced": true,
+      "enabled": true
+    },
+    {
+      "name": "space-exploration",
+      "description": "Core compatibility mods",
+      "enabled": true
+    },
+    {
+      "name": "space-exploration-postprocess",
+      "description": "space-exploration dep",
+      "forced": true,
+      "enabled": true
+    },
+    {
+      "name": "space-exploration-hr-graphics",
+      "description": "space-exploration dep",
+      "forced": true,
+      "enabled": true
+    },
+    {
+      "name": "aai-signal-transmission",
+      "description": "space-exploration dep",
+      "forced": true,
+      "enabled": true
+    },
+    {
+      "name": "informatron",
+      "description": "space-exploration dep",
+      "forced": true,
+      "enabled": true
+    },
+    {
+      "name": "robot_attrition",
+      "description": "space-exploration dep",
+      "forced": true,
+      "enabled": true
+    },
+    {
+      "name": "grappling-gun",
+      "description": "space-exploration dep",
+      "forced": true,
+      "enabled": true
+    },
+    {
+      "name": "jetpack",
+      "description": "space-exploration dep",
+      "forced": true,
+      "enabled": true
+    },
+    {
+      "name": "space-exploration-graphics",
+      "description": "space-exploration dep",
+      "forced": true,
+      "enabled": true
+    },
+    {
+      "name": "vtk-armor-plating",
+      "description": "Core compatibility mods",
+      "enabled": true
+    },
+    {
+      "name": "EvoGUI",
+      "description": "Core compatibility mods",
+      "broken": "No 1.0 version",
+      "forced": true,
+      "enabled": true
+    },
+    {
+      "name": "manual-inventory-sort",
+      "description": "Core compatibility mods",
+      "enabled": true
+    },
+    {
+      "name": "textplates",
+      "description": "Core compatibility mods",
+      "broken": "No 1.0 version",
+      "forced": true,
+      "enabled": true
+    },
+    {
+      "name": "Side Inserters",
+      "description": "Quality of Life",
+      "forced": true,
+      "enabled": true
+    },
+    {
+      "name": "AutoDeconstruct",
+      "description": "Quality of Life",
+      "enabled": true
+    },
+    {
+      "name": "Bottleneck",
+      "description": "Quality of Life",
+      "enabled": true
+    },
+    {
+      "name": "Squeak Through",
+      "description": "Quality of Life",
+      "broken": "No 1.0 version",
+      "forced": true,
+      "enabled": true
+    },
+    {
+      "name": "Todo-List",
+      "description": "Quality of Life",
+      "broken": "No 1.0 version",
+      "forced": true,
+      "enabled": true
+    },
+    {
+      "name": "themightygugi_longreach",
+      "description": "Quality of Life",
+      "broken": "No 1.0 version",
+      "forced": true,
+      "enabled": true
+    },
+    {
+      "name": "helmod",
+      "enabled": true
+    },
+    {
+      "name": "FARL",
+      "enabled": true
+    },
+    {
+      "name": "AfraidOfTheDark",
+      "broken": "No 1.0 version",
+      "forced": true,
+      "enabled": true
+    }
+  ]
+}

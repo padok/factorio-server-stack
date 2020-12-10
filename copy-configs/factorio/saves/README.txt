@@ -1,0 +1,2 @@
+Save your saved game here if you want to continue a local game.
+Rename it to server-save.zip and rename it after you first started and updated your server (like server-save.zip.disabled) to prevent the scripts from overwriting your current game.

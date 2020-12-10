@@ -1,0 +1,8 @@
+{
+    "verbose": false,
+    "factorio_path": "$SERVER_PATH/factorio",
+    "username": "XXXXXXXX",
+    "token": "XXXXXXXX",
+    "should_reload": false,
+    "service_name": null
+}
